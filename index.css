@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    background: #f1f9f9;
+}
+
+#topBar{
+    background: white;
+    height: 50px;
+}
+
+.topBarElementsRight{
+    float: right;
+    margin: 10px 15px;
+    font-size: 27px;
+}
+
+.topBarElementsLeft{
+    float: left;
+    margin: 10px 10px;
+    font-size: 27px;
+}
+
+#navBar{
+    background: white;
+    height: 60px;
+}
+
+.navBarButtons{
+    float: right;
+    padding-top: 15px;
+    margin: 0px 60px;
+    font-size: 27px;
+    background: inherit;
+    border: none;
+    color: gray;
+    outline: none;
+}
+
+#profBar{
+    margin-top: 7px;
+    background: white;
+    height: 300px;
+    padding-top: 10px;
+}
+
+#profile{
+    background: gray;
+    height: 130px;
+    width: 130px;
+    border-radius: 95px;
+    margin-left: 20px;
+    float: left;
+}
+
+.pName{
+    font-size: 25px;
+    
+    
+}
+
+meter{
+    width: 80%;
+    height: 5px;
+
+}
+
+.info{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
